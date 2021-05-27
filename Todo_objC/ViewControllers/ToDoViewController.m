@@ -10,7 +10,6 @@
 #import "ToDoViewModel.h"
 #import "DetailViewController.h"
 
-//making changes
 @interface ToDoViewController ()
 @property (nonatomic, strong) ToDoViewModel *vm;
 @property (nonatomic, strong) NSArray *array;
